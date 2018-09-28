@@ -1,0 +1,21 @@
+{
+    "name": "xiaoqqqqqq/tp5auth",
+    "description": "tp5auth",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoqqqqqqq",
+            "email": "857601608@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\": "src/"
+        }
+    }
+}
