@@ -16,6 +16,7 @@ use think\Session;
 use think\Request;
 use think\Loader;
 
+
 /**
  * 权限认证类
  * 功能特性：
